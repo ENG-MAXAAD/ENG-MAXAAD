@@ -92,12 +92,6 @@ Event Operations • QR Scanning • Feedback • Organizer Tools • Digital Wa
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ENG-MAXAAD&show_icons=true&hide_border=true&theme=transparent)
-
----
-
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: [linkedin.com/in/zakaria-ahmed-mahad](https://www.linkedin.com/in/zakaria-ahmed-mahad)
